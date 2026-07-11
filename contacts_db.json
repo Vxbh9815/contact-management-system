@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "demo_user",
+      "email": "demo@example.com",
+      "passwordHash": "7b47e8cda49e7bdf51a34b22c83c27e8",
+      "dateCreated": "2026-07-10 12:00:00"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Vaibhav Singh",
+      "emails": [
+        "vaibhav.sharma@google.com",
+        "vaibhav@gmail.com"
+      ],
+      "phoneNumbers": [
+        "+1 (555) 019-2834",
+        "+1 (555) 019-5821"
+      ],
+      "company": "Google",
+      "address": "1600 Amphitheatre Pkwy, Mountain View, CA",
+      "birthday": "1992-08-24",
+      "tags": [
+        "Key Client",
+        "Product Manager",
+        "Tech"
+      ],
+      "groups": [
+        "Partners",
+        "Silicon Valley Network"
+      ],
+      "notes": "Met at Google I/O. Lead Product Manager for Cloud API integrations.",
+      "isFavorite": true,
+      "dateAdded": "2026-06-01 10:14:00",
+      "lastModified": "2026-07-05 14:22:00",
+      "interactionCount": 15
+    },
+    {
+      "id": 2,
+      "name": "Prachi Singh",
+      "emails": [
+        "prachi.patel@stripe.com"
+      ],
+      "phoneNumbers": [
+        "+1 (555) 482-1920"
+      ],
+      "company": "Stripe",
+      "address": "354 Oyster Point Blvd, South San Francisco, CA",
+      "birthday": "1988-11-12",
+      "tags": [
+        "Billing",
+        "Executive",
+        "Fintech"
+      ],
+      "groups": [
+        "Partners",
+        "Finance Circle"
+      ],
+      "notes": "Discussed enterprise pricing discount. High priority contact.",
+      "isFavorite": true,
+      "dateAdded": "2026-06-15 09:30:00",
+      "lastModified": "2026-07-09 11:15:00",
+      "interactionCount": 22
+    },
+    {
+      "id": 3,
+      "name": "Shujal Jaiswal",
+      "emails": [
+        "sujal.m@openai.com"
+      ],
+      "phoneNumbers": [
+        "+1 (555) 901-3829"
+      ],
+      "company": "OpenAI",
+      "address": "3180 18th St, San Francisco, CA",
+      "birthday": "1995-03-15",
+      "tags": [
+        "AI",
+        "Research",
+        "Collaborator"
+      ],
+      "groups": [
+        "Tech Founders",
+        "Silicon Valley Network"
+      ],
+      "notes": "Working on custom LLM models for CRM autocomplete logic.",
+      "isFavorite": false,
+      "dateAdded": "2026-06-20 16:45:00",
+      "lastModified": "2026-06-20 16:45:00",
+      "interactionCount": 8
+    },
+    {
+      "id": 4,
+      "name": "Prince Thakur",
+      "emails": [
+        "prince.k@apple.com"
+      ],
+      "phoneNumbers": [
+        "+1 (555) 233-9081"
+      ],
+      "company": "Apple",
+      "address": "1 Apple Park Way, Cupertino, CA",
+      "birthday": "1990-05-04",
+      "tags": [
+        "Hardware",
+        "Design",
+        "Alumni"
+      ],
+      "groups": [
+        "Silicon Valley Network"
+      ],
+      "notes": "SaaS UX consultant. Excellent aesthetic taste.",
+      "isFavorite": true,
+      "dateAdded": "2026-07-01 11:00:00",
+      "lastModified": "2026-07-11 08:30:00",
+      "interactionCount": 19
+    },
+    {
+      "id": 5,
+      "name": "Shubham Singh",
+      "emails": [
+        "shubham@philosophy.org"
+      ],
+      "phoneNumbers": [
+        "+1 (555) 000-0161"
+      ],
+      "company": "Stoic Labs",
+      "address": "Rome, Italy",
+      "birthday": "0121-04-26",
+      "tags": [
+        "Adviser",
+        "Mentor"
+      ],
+      "groups": [
+        "Personal",
+        "Stoic Group"
+      ],
+      "notes": "Very calm in high-pressure situations. Reminds me of core values.",
+      "isFavorite": false,
+      "dateAdded": "2026-05-10 08:00:00",
+      "lastModified": "2026-05-10 08:00:00",
+      "interactionCount": 3
+    }
+  ],
+  "recentViews": [
+    1,
+    2,
+    4
+  ],
+  "deletedContacts": []
+}

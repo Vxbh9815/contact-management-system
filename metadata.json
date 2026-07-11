@@ -1,0 +1,6 @@
+{
+  "name": "Contact Management System",
+  "description": "A high-performance CRM featuring a premium visual design and fully interactive custom DSA implementations (AVL Trees, Tries, Hash Tables, Priority Queues, Graphs, Stacks, and Queues) with real-time state visualizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
